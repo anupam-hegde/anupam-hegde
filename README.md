@@ -16,4 +16,4 @@ I'm a Machine Learning and Artificial Intelligence enthusiast passionate about b
 
 ### 📫 Reach Me
 
-Email: hegdeanup2004@gmail.com
+Email: anupam.m.hegde2004@gmail.com
