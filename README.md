@@ -1,8 +1,8 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Exo&size=35&center=true&vCenter=true&width=600&height=90&duration=5000&pause=1000&lines=Namaskara!+🙏;Anupam+here+😉;&color=FFFFFF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=40&duration=4500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=Namaskara!+🙏;Anupam+here+😉;" alt="Typing SVG" />
 </h1>
 
-<div align="center">
+
 
 I'm a Machine Learning and Artificial Intelligence enthusiast passionate about building data-driven solutions.
 
