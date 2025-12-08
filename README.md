@@ -20,8 +20,7 @@
 class MLEngineer:
     def __init__(self):
         self.name = "Anupam Hegde"
-        self.role = "ML & GenAI Developer"
-        self.interests = ["Large Language Models", "Deep Learning", 
+         self.interests = ["AI Agents", "Deep Learning", 
                          "Computer Vision", "NLP", "RAG Systems"]
         self.current_focus = "Building production-ready GenAI applications"
     
@@ -33,8 +32,8 @@ me.say_hi()
 ```
 
 🔥 **Passionate about** leveraging Machine Learning and Generative AI to solve real-world problems  
-💡 **Currently exploring** LLM fine-tuning, prompt engineering, and agentic AI workflows  
-🌱 **Learning** Advanced RAG architectures and multimodal AI systems  
+💡 **Currently exploring** Prompt engineering, and agentic AI workflows  
+🌱 **Learning**  RAG architectures and multimodal AI systems  
 🎓 **Mission** Creating AI solutions that make a tangible impact
 
 ---
