@@ -20,7 +20,7 @@
 class MLEngineer:
     def __init__(self):
         self.name = "Anupam Hegde"
-         self.interests = ["AI Agents", "Deep Learning", 
+        self.interests = ["AI Agents", "Deep Learning", 
                          "Computer Vision", "NLP", "RAG Systems"]
         self.current_focus = "Building production-ready GenAI applications"
     
