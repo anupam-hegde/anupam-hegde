@@ -70,20 +70,9 @@ me.say_hi()
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C7B7?style=for-the-badge&logoColor=white)
 
----
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupam-hegde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-hegde&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-hegde&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🚀 Featured Projects
 
