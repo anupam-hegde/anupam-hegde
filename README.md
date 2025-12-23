@@ -7,7 +7,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-anupam.m.hegde2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anupam.m.hegde2004@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/anupamhegde)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
