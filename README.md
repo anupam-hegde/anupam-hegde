@@ -119,18 +119,7 @@ Developed a system combining vision and language models for image understanding 
 - 🎯 Prompt Engineering Techniques for Better LLM Outputs
 <!-- BLOG-POST-LIST:END -->
 
----
 
-## 🏆 Achievements & Certifications
-
-```
-🎓 Deep Learning Specialization (Coursera)
-🎓 Machine Learning Engineering for Production (MLOps)
-🎓 LangChain & Vector Databases in Production
-🏅 Kaggle Competitions: Top 5% Ranking
-```
-
----
 
 ## 💭 Quote I Live By
 
