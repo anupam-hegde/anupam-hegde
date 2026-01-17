@@ -110,14 +110,7 @@ Developed a system combining vision and language models for image understanding 
 
 ---
 
-## 📚 Latest Blog Posts & Articles
 
-<!-- BLOG-POST-LIST:START -->
-- 🔥 Understanding Retrieval-Augmented Generation (RAG) Architecture
-- 💡 Fine-tuning LLMs: A Practical Guide to LoRA and QLoRA
-- 🚀 Building Production-Ready ML Pipelines with MLOps Best Practices
-- 🎯 Prompt Engineering Techniques for Better LLM Outputs
-<!-- BLOG-POST-LIST:END -->
 
 
 
