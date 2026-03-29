@@ -27,7 +27,7 @@ class MLEngineer:
         self.role = "ML Engineer & GenAI Developer"
         self.location = "Bengaluru, India 🇮🇳"
         self.interests = ["AI Agents", "Deep Learning", 
-                         "Computer Vision", "NLP", "RAG Systems"]
+                         "Computer Vision", "Machine Learning", "RAG Systems"]
         self.current_focus = "Building production-ready GenAI applications"
         self.coffee_consumed = "∞"
     
