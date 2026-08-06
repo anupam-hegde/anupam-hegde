@@ -1,5 +1,4 @@
-<div align="center">👋 Namaskara! I'm Anupam</div>
-
+<h1 align="center">👋 Namaskara! I'm Anupam</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+%26+GenAI+Enthusiast;Building+Intelligent+AI+Systems;Transforming+Data+into+Insights;Creating+The+Future+of+AI" alt="Typing SVG" />
@@ -41,18 +40,13 @@
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anupam-hegde&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anupam-hegde&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anupam-hegde&theme=tokyonight&hide_border=true&background=0D1117" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anupam-hegde&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
+
 
 ---
 
