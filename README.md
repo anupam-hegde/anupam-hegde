@@ -1,4 +1,4 @@
-# <div align="center">👋 Namaskara! I'm Anupam</div>
+<div align="center">👋 Namaskara! I'm Anupam</div>
 
 
 <div align="center">
@@ -18,25 +18,9 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Future Dev" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```python
-class MLEngineer:
-    def __init__(self):
-        self.name = "Anupam Hegde"
-        self.role = "ML Engineer & GenAI Developer"
-        self.location = "Bengaluru, India 🇮🇳"
-        self.interests = ["AI Agents", "Deep Learning", 
-                         "Computer Vision", "Machine Learning", "RAG Systems"]
-        self.current_focus = "Building production-ready GenAI applications"
-        self.coffee_consumed = "∞"
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
-
-me = MLEngineer()
-me.say_hi()
-```
+<div align="center">
+  <img src="demo.gif" width="900" alt="Demo" />
+</div>
 
 🔥 **Passionate about** leveraging Machine Learning and Generative AI to solve real-world problems  
 💡 **Currently exploring** Prompt engineering, and agentic AI workflows  
@@ -115,11 +99,6 @@ me.say_hi()
 </p>
 
 ---
-
-
-
-
-
 
 ## 💻 Coding Stats
 
